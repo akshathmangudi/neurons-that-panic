@@ -67,4 +67,4 @@ src/
 
 - **Main Experiment Notebook**: `experiment.ipynb`
 - **Sanity Checks Notebook**: `sanity_checks.ipynb`
-- **Supplementary Materials**: ![Google Drive](https://drive.google.com/drive/folders/1jlVze75NJNizPTgy-_hHET-VfYZlTu6s?usp=sharing)
+- **Supplementary Materials**: [Google Drive](https://drive.google.com/drive/folders/1jlVze75NJNizPTgy-_hHET-VfYZlTu6s?usp=sharing)
