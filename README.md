@@ -2,6 +2,8 @@
 
 A mechanistic interpretability project studying misgeneralization in small transformer models by identifying "panic neurons" whose activations change significantly under adversarial inputs.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1opVfgIxZDAbYgoW3gQ8Nk5-QScSDAO7I?usp=sharing)
+
 ## Create virtual environment & Installation
 ```
 uv venv
@@ -65,5 +67,4 @@ src/
 
 - **Main Experiment Notebook**: `experiment.ipynb`
 - **Sanity Checks Notebook**: `sanity_checks.ipynb`
-- **Supplementary Materials**: https://drive.google.com/drive/folders/1jlVze75NJNizPTgy-_hHET-VfYZlTu6s?usp=sharing
-- **nbviewer**: 
+- **Supplementary Materials**: ![Google Drive](https://drive.google.com/drive/folders/1jlVze75NJNizPTgy-_hHET-VfYZlTu6s?usp=sharing)
